@@ -12,6 +12,9 @@ requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
 
+[project.scripts]
+banner-monk = "banner_monk.banner_monk:show"
+#script = package.pyfile:function_name
 
 [tool.pdm]
 distribution = false

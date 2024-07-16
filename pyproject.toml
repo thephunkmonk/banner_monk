@@ -1,6 +1,6 @@
 [project]
 name = "banner_monk"
-version = "0.2.0"
+version = "0.2.1"
 description = "Printing banner out"
 authors = [
     {name = "thephunkmonk", email = "andrewchoi1218@gmail.com"},

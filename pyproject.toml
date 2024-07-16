@@ -18,3 +18,7 @@ show-banner = "banner_monk.banner_monk:show"
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage = "https://github.com/thephunkmonk/banner_monk"
+Issues = "https://github.com/thephunkmonk/banner_monk/issues"
